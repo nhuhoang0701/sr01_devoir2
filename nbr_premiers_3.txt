@@ -1,0 +1,8 @@
+13 est un nombre premier, écrit par le processus 11631. Son père est le processus 11629.
+17 est un nombre premier, écrit par le processus 11633. Son père est le processus 11629.
+19 est un nombre premier, écrit par le processus 11635. Son père est le processus 11629.
+2 est un nombre premier, écrit par le processus 11630. Son père est le processus 11628.
+5 est un nombre premier, écrit par le processus 11634. Son père est le processus 11628.
+3 est un nombre premier, écrit par le processus 11632. Son père est le processus 11628.
+11 est un nombre premier, écrit par le processus 11640. Son père est le processus 11628.
+7 est un nombre premier, écrit par le processus 11637. Son père est le processus 11628.

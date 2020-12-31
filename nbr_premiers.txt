@@ -1,0 +1,8 @@
+ 2 est un nombre premier écrit par le processus 1846
+ 3 est un nombre premier écrit par le processus 2044
+ 5 est un nombre premier écrit par le processus 2150
+ 7 est un nombre premier écrit par le processus 2225
+ 11 est un nombre premier écrit par le processus 2322
+ 13 est un nombre premier écrit par le processus 2457
+ 17 est un nombre premier écrit par le processus 2555
+ 19 est un nombre premier écrit par le processus 2643

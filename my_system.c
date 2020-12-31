@@ -16,7 +16,7 @@ void my_system(char *chaine)
     else if (pid == 0)
     {
         execv("/bin/sh", arguments);
-        printf("Ce ligne ne devrait être exécuté\n");
+        printf("Ce ligne ne devrait pas être exécuté\n");
     }
     else if (pid > 0)
     {

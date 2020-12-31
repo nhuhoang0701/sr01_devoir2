@@ -1,0 +1,16 @@
+2 est un nombre premier, écrit par le processus 18094. Son père est le processus 18093.
+	Le processus qui a écrit le message sur le terminal est 18095
+3 est un nombre premier, écrit par le processus 18162. Son père est le processus 18093.
+	Le processus qui a écrit le message sur le terminal est 18163
+5 est un nombre premier, écrit par le processus 18257. Son père est le processus 18093.
+	Le processus qui a écrit le message sur le terminal est 18258
+7 est un nombre premier, écrit par le processus 18465. Son père est le processus 18093.
+	Le processus qui a écrit le message sur le terminal est 18466
+11 est un nombre premier, écrit par le processus 18576. Son père est le processus 18093.
+	Le processus qui a écrit le message sur le terminal est 18577
+13 est un nombre premier, écrit par le processus 18674. Son père est le processus 18673.
+	Le processus qui a écrit le message sur le terminal est 18675
+17 est un nombre premier, écrit par le processus 18786. Son père est le processus 18673.
+	Le processus qui a écrit le message sur le terminal est 18787
+19 est un nombre premier, écrit par le processus 18855. Son père est le processus 18673.
+	Le processus qui a écrit le message sur le terminal est 18856
