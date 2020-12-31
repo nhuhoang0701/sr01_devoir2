@@ -1,0 +1,8 @@
+ 2 est un nombre premier écrit par le processus 9001
+ 11 est un nombre premier écrit par le processus 9010
+ 3 est un nombre premier écrit par le processus 9002
+ 5 est un nombre premier écrit par le processus 9004
+ 13 est un nombre premier écrit par le processus 9003
+ 19 est un nombre premier écrit par le processus 9009
+ 17 est un nombre premier écrit par le processus 9005
+ 7 est un nombre premier écrit par le processus 9006
